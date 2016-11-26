@@ -6,7 +6,7 @@ the general design for this project.
 
 
 # Network layout
-![image](https://images-1.discordapp.net/.eJwNyEEOhCAMAMC_8ACoQF30NwRJIVEgtJ6Mf19vk3nUPU-1qyIyeDfmqJz6PDRLn5Gypt7pzHFU1qlfJorEVK7chI21iNuC6AOgXxFC-Gr9_AsA3i3Obg6MlNrI6tFIvX_goCIN.s_5X_wFUE9vDB4RZGj6NiJNqF6g "layout")
+![image](https://images.discordapp.net/.eJwNw1EOgyAMANC7cAAKjCrzNgQJGrUltGYfy-4-X_K-5h6nWcym2mUBWHcpPFYryiO3ahtzO2vuu9jCF2TVXLarkgqEgPj2iDE5jBO6lCC8fApxmtHPPjh8wk0H8Ydsp2Z-fwaRIs8.wF5mT8RenMaM3f0E8_Bqf1xINxI "layout")
 
 That's a general layout of how the Network would be configured, in it's simplest form. The web UI and REST API are not necessary. They would be used for web-apps etc.
 
