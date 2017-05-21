@@ -1,0 +1,7 @@
+*.out
+vgcore.*
+*.o
+*.so.*
+*.lib
+*.dll
+
